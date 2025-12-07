@@ -1,5 +1,11 @@
-# Cinema-Audience-Forecasting--
 # Cinema Audience Forecasting Challenge 🎬📊
+
+## 🏆 Achievements & Academic Context
+* **Performance:** Achieved a rank within the **Top 20% of Candidates** in the competition.
+* **Institution:** This project was developed as part of the **IIT Madras BS in Data Science and Applications**.
+* **Supervision:** Conducted under the guidance and supervision of **IIT Madras Professors**.
+
+---
 
 ## Project Overview
 This repository contains a machine learning pipeline designed to forecast the daily audience count for various movie theaters. The solution integrates multiple data sources—including online booking platforms, point-of-sale (POS) systems, and theater metadata—to predict attendance numbers.
