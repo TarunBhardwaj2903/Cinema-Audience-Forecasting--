@@ -1,6 +1,6 @@
 # Cinema Audience Forecasting Challenge 🎬📊
 
-## 🏆 Achievements & Academic Contextt
+## 🏆 Achievements & Academic Context
 * **Performance:** Achieved a rank within the **Top 20% of Candidates** in the competition.
 * **Institution:** This project was developed as part of the **IIT Madras BS in Data Science and Applications**.
 * **Supervision:** Conducted under the guidance and supervision of **IIT Madras Professors**.
